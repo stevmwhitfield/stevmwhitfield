@@ -10,4 +10,4 @@ Software engineer at Cognizant currently doing test automation.
 
 #
 
-[LinkedIn](https://www.linkedin.com/in/stevenmwhitfield/) | [Personal website](https://www.stevenwhitfield.dev/)
+[LinkedIn](https://www.linkedin.com/in/stevenmwhitfield/) | [Personal website](https://v2.stevenwhitfield.dev/)
